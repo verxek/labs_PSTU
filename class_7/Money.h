@@ -21,30 +21,3 @@ private:
 	int kop;
 };
 
-
-//template<class T, class T2>
-//class Money
-//{
-//private:
-//	T rubles;
-//	T kop;
-//public:
-//	Money(long rubles, int copeyka)
-//	{
-//		this->rubles = rubles;
-//		this->kop = copeyka;
-//	}
-//	~Money() {};
-//	void show()
-//	{
-//		cout << "Ñóììà: " << rubles << "," << kop << endl;
-//	}
-//	Money operator - (const Money& other)
-//	{
-//		Money<T, T2> tmp(243421992, 167);
-//		tmp.rubles = this->rubles - other.rubles;
-//		tmp.kop = this->kop - other.kop;
-//		return tmp;
-//	}
-//};
-
