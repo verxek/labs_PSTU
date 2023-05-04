@@ -1,0 +1,6 @@
+﻿  Money.cpp
+  class_7_.cpp
+C:\Users\987\source\repos\class_7_\class_7_\class_7_.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\987\source\repos\class_7_\class_7_\Plenty.h(73): warning C4715: Plenty<int>::operator[]: значение возвращается не при всех путях выполнения
+  class_7_.vcxproj -> C:\Users\987\source\repos\class_7_\x64\Debug\class_7_.exe
